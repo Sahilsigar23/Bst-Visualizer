@@ -205,4 +205,4 @@ class BST {
   }
 }
 
-module.exports = BST; // closed it
+module.exports = BST; // export
